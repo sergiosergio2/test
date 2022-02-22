@@ -1,0 +1,11 @@
+.item {
+  font-weight: 400;
+  font-size: 25px;
+  color: blue;
+  margin-bottom: 10px;
+}
+.contactItem {
+  width: 380px;
+  display: flex;
+  justify-content: space-between;
+}
